@@ -67,6 +67,6 @@ body {
     @apply border-border;
   }
   body {
-    @apply bg-neutral-900 text-neutral-100;
+    @apply bg-teal-50 text-teal-800;
   }
 }
